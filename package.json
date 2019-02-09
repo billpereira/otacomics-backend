@@ -1,0 +1,13 @@
+{
+  "name": "otacomics",
+  "version": "1.0.0",
+  "description": "backend for otacomics store",
+  "main": "src/server.js",
+  "repository": "https://github.com/billpereira/otacomics-backend.git",
+  "author": "William Pereira",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.10"
+  }
+}
